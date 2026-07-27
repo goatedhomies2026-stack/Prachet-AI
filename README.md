@@ -13,4 +13,7 @@ A sleek, lightweight, single-file AI Studio web application powered by **Groq** 
 - **Interactive Chat Controls:** Edit previous prompts mid-conversation, regenerate responses, dictate prompts via voice input, and export full chats as Markdown.
 - **Privacy-Centric:** All API keys, user credentials, and chat histories are stored strictly in your browser's local storage.
 
+- If you want to use the website version, then go to this link:
+- https://prachetai.netlify.app/ 
+
 ---

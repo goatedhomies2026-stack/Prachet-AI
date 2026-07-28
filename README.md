@@ -14,6 +14,6 @@ A sleek, lightweight, single-file AI Studio web application powered by **Groq** 
 - **Privacy-Centric:** All API keys, user credentials, and chat histories are stored strictly in your browser's local storage.
 
 - If you want to use the website version, then go to this link:
-- https://prachetai.netlify.app/ 
+- https://prachet-ai.netlify.app/ 
 
 ---
